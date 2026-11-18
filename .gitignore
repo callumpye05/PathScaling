@@ -3,3 +3,6 @@ build/
 *.out
 *.exe
 .vscode/
+bench_matrix
+pathscaling 
+perf.data
